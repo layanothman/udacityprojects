@@ -1,0 +1,8 @@
+dataset 1 :manually 
+https://catalog.data.gov/dataset/electric-vehicle-charging-stations
+the cvs file :Electric_Vehicle_Charging_Stations.csv
+
+
+dataset 2 :API
+ the url of the API :https://data.wa.gov/api/views/f6w7-q2d2/rows.json?accessType=DOWNLOAD
+https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/8abbca4e-2f1c-4249-989f-b96201dd4710
